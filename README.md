@@ -211,9 +211,9 @@ Backend application for movie and event ticket booking.
 
 # 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gondkar-saish&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gondkar-saish&layout=compact)
 
 ---
 
@@ -230,18 +230,24 @@ Backend application for movie and event ticket booking.
 # 📫 Connect With Me
 
 <p align="left">
-  <a href="YOUR_LINKEDIN_URL" target="_blank">
+  <a href="http://www.needforneedy.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="Portfolio Website" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/saish-gondkar/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:saish.gondkar06@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Email" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
+  <a href="https://github.com/gondkar-saish" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub" />
   </a>
 </p>
+
+
 ---
 
 > Building systems that connect software, data, and hardware.
