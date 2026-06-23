@@ -1,126 +1,240 @@
 # Hi there, I'm Saish 👋
 
-### Java Backend Developer | Spring Boot | REST APIs | Computer Engineering Student
+### Java Backend Developer | Computer Engineering Student | IoT & ESP32 Explorer
 
-I'm a Computer Engineering student building backend systems using Java, Spring Boot, REST APIs, SQL databases, and clean layered architecture.
+I'm a Computer Engineering student passionate about building backend systems using Java, Spring Boot, REST APIs, and SQL databases.
 
-Currently, I'm focused on improving my backend development skills through real-world projects like e-commerce systems, booking platforms, authentication systems, and IoT projects using ESP32.
-
----
-
-## 🚀 What I'm Working On
-
-- Building Spring Boot backend projects
-- Learning Docker and deployment basics
-- Improving REST API design
-- Practicing database modeling with MySQL
-- Exploring ESP32 + backend integration for IoT projects
-- Intern at Ampcus Tech Pvt Limited
+Alongside backend development, I'm exploring IoT and embedded systems using ESP32. My goal is to bridge software and hardware by building systems where devices communicate with scalable backend services.
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Current Focus
 
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Backend
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
-
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![H2 Database](https://img.shields.io/badge/H2_Database-1021FF?style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+- Java Backend Development
+- Spring Boot REST APIs
+- Database Design & Optimization
+- ESP32 & IoT Systems
+- Docker Fundamentals
+- System Design Basics
 
 ---
 
-## 📌 Featured Projects
+# 🌟 Featured Project Direction: ESP32 + Backend Integration
 
-### 🛒 E-Commerce Backend System
-A Spring Boot backend project that handles users, products, cart management, order placement, payment status simulation, and order tracking.
+One area I'm actively exploring is combining embedded systems with backend development.
 
-**Tech Used:** Java, Spring Boot, Spring Data JPA, Hibernate, MySQL, REST APIs
+### Smart Room Monitoring System
 
-**Key Features:**
+An ESP32-based system that collects sensor data and sends it to a Spring Boot backend for storage, monitoring, and analysis.
+
+### Architecture
+
+```text
+ESP32 Device
+     │
+     ▼
+Sensor Data
+     │
+     ▼
+HTTP Requests
+     │
+     ▼
+Spring Boot Backend
+     │
+     ▼
+MySQL Database
+     │
+     ▼
+Dashboard / Reports
+```
+
+### Planned Features
+
+- Real-time sensor monitoring
+- Device health tracking
+- Historical data storage
+- Threshold-based alerts
+- API-driven architecture
+- Backend analytics
+
+This project combines my interests in Computer Engineering, IoT, backend development, and system design.
+
+---
+
+# 💻 Backend Projects
+
+## 🛒 E-Commerce Backend System
+
+A Spring Boot backend application that manages the complete e-commerce workflow.
+
+### Features
+
 - User management
 - Product management
 - Cart system
 - Order placement
 - Payment status simulation
 - Order tracking
-- DTO-based request handling
-- Service interface and implementation structure
+- DTO-based architecture
+- Service interface and implementation pattern
+
+### Tech Stack
+
+- Java
+- Spring Boot
+- Spring Data JPA
+- Hibernate
+- MySQL
+- REST APIs
+- Swagger
+- Maven
 
 ---
 
-### 🔐 Role-Based Authentication System
-A backend authentication and authorization system using Spring Security and JWT.
+## 🔐 Role-Based Authentication System
 
-**Tech Used:** Java, Spring Boot, Spring Security, JWT, MySQL
+Authentication and authorization system built using Spring Security and JWT.
 
-**Key Features:**
-- User registration and login
+### Features
+
+- User registration
+- User login
 - Password encryption using BCrypt
-- JWT token generation
-- Role-based access control
+- JWT generation and validation
+- Role-based authorization
 - Protected API endpoints
 
+### Tech Stack
+
+- Java
+- Spring Boot
+- Spring Security
+- JWT
+- MySQL
+
 ---
 
-### 🏨 Hotel Booking System
-A backend project for checking room availability and managing hotel bookings based on dates.
+## 🏨 Hotel Booking System
 
-**Tech Used:** Java, Spring Boot, Spring Data JPA, MySQL, Swagger
+A backend system for managing room availability and bookings.
 
-**Key Features:**
+### Features
+
 - Room management
-- Booking system
-- Date-based search
-- Availability checking
-- REST API testing using Swagger
+- Booking creation
+- Date-based availability search
+- Booking history
+- Swagger API documentation
+
+### Tech Stack
+
+- Java
+- Spring Boot
+- Spring Data JPA
+- MySQL
+- Swagger
 
 ---
 
-### 🎟️ Ticket Booking System
-A Spring Boot backend system for booking tickets for movies or events.
+## 🎟️ Ticket Booking System
 
-**Tech Used:** Java, Spring Boot, JPA, MySQL
+Backend application for movie and event ticket booking.
 
-**Key Features:**
-- Event/movie management
-- Seat availability
+### Features
+
+- Event management
+- Seat availability tracking
 - Ticket booking
 - Booking history
 
----
+### Tech Stack
 
-### 🌐 ESP32 + Backend IoT Project
-An IoT project idea combining ESP32 sensor data with a backend API.
-
-**Planned Tech:** ESP32, Arduino IDE, Java Spring Boot, REST API, MySQL
-
-**Goal:**
-Send sensor data from ESP32 to a backend server and store it in a database for monitoring and analysis.
+- Java
+- Spring Boot
+- JPA
+- MySQL
+- REST APIs
 
 ---
 
-## 📚 Currently Learning
+# 🛠️ Skills
 
-```text
-Docker
-React
-ESP32
-System Design Basics
-Spring Security
-Deployment
+## Backend Development
+
+- Java
+- Spring Boot
+- Spring Data JPA
+- Hibernate
+- REST APIs
+- Spring Security
+- JWT Authentication
+
+## Databases
+
+- MySQL
+- PostgreSQL
+- H2 Database
+- SQL Query Writing
+- Database Relationships
+- Data Modeling
+
+## Tools
+
+- Git
+- GitHub
+- Postman
+- Swagger
+- IntelliJ IDEA
+- Maven
+
+## Hardware & IoT
+
+- ESP32
+- Arduino IDE
+- GPIO Programming
+- Sensors & Actuators
+- Serial Communication
+- Embedded Systems Fundamentals
+
+---
+
+# 📚 Currently Learning
+
+- Docker
+- React
+- ESP32 Sensor Integration
+- Backend Deployment
+- API Security
+- System Design
+
+---
+
+# 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact)
+
+---
+
+# 🎯 Goals
+
+- Build production-ready backend systems
+- Strengthen system design skills
+- Develop full-stack understanding
+- Create IoT solutions using ESP32 and Spring Boot
+- Learn cloud deployment and containerization
+
+---
+
+# 📫 Connect With Me
+
+LinkedIn: (https://www.linkedin.com/in/saish-gondkar/)
+
+Email: saish.gondkar06@gmail.com
+
+GitHub: (https://github.com/gondkar-saish)](https://github.com/gondkar-saish)
+
+---
+
+> Building systems that connect software, data, and hardware.
