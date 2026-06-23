@@ -2,9 +2,8 @@
 
 ### Java Backend Developer | Computer Engineering Student | IoT & ESP32 Explorer
 
-I'm a Computer Engineering student passionate about building backend systems using Java, Spring Boot, REST APIs, and SQL databases.
-
-Alongside backend development, I'm exploring IoT and embedded systems using ESP32. My goal is to bridge software and hardware by building systems where devices communicate with scalable backend services.
+I'm a Computer Engineering student passionate about integrating computer hardwares with backend systems.
+Currently I'm exploring IoT and embedded systems using ESP32. My goal is to bridge software and hardware by building systems where devices communicate with scalable backend services.
 
 ---
 
