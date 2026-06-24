@@ -229,10 +229,7 @@ Backend application for movie and event ticket booking.
 # 📫 Connect With Me
 
 <p align="left">
-  <a href="http://www.needforneedy.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="Portfolio Website" />
-  </a>
-  &nbsp;&nbsp;
+
   <a href="https://www.linkedin.com/in/saish-gondkar/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn" />
   </a>
