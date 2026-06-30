@@ -11,11 +11,11 @@
 <br>
 
 <a href="https://personal-website-mu-eight-91.vercel.app/">
-<img src="https://img.shields.io/badge/🚀%20Enter%20The%20Portfolio-0969DA?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/🚀%20Enter%20The%20Portfolio-2B2B2B?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/saish-gondkar/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-2B2B2B?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
