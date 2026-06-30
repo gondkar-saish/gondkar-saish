@@ -5,17 +5,13 @@
 ### Java Backend Developer • Computer Engineering Student • IoT & ESP32 Explorer
 
 <a href="https://personal-website-mu-eight-91.vercel.app/">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2200&pause=1000&color=2F81F7&center=true&vCenter=true&width=800&lines=Backend+Developer;Spring+Boot+%7C+Java+%7C+MySQL;ESP32+%2B+Backend+Integration;Building+Software+%2B+Hardware+Systems" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2200&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Building+Software+%2B+Hardware;Turning+Ideas+Into+Systems;Spring+Boot+%7C+ESP32+%7C+IoT;Backend+Logic+Meets+Real+World+Devices" />
 </a>
 
 <br>
 
 <a href="https://personal-website-mu-eight-91.vercel.app/">
-<img src="https://img.shields.io/badge/Visit%20My%20Portfolio-24292F?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://github.com/gondkar-saish">
-<img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/🚀%20Enter%20The%20Portfolio-0969DA?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/saish-gondkar/">
@@ -26,20 +22,20 @@
 
 ---
 
-## 🌐 Portfolio
+## 🌐 Curious? Start Here.
 
 > **My portfolio showcases my projects, skills, and learning journey in a more interactive way than a normal GitHub README.**  
 > It includes my backend projects, IoT direction, and personal website design.
 
 <p align="center">
-<a href="https://YOUR-WEBSITE-LINK.vercel.app">
-<img src="https://img.shields.io/badge/Open%20Portfolio-2F81F7?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<a href="https://personal-website-mu-eight-91.vercel.app/">
+<img src="https://img.shields.io/badge/Explore%20The%20Portfolio-1F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🧑‍💻 The Human Behind The Code
 
 I'm a Computer Engineering student passionate about building scalable backend systems while exploring embedded hardware and IoT.
 
@@ -49,7 +45,7 @@ Currently focused on becoming a backend engineer with strong system design and c
 
 ---
 
-## 🚀 Current Focus
+## 🎯 What's Keeping Me Busy
 
 - Java Backend Development
 - Spring Boot REST APIs
@@ -62,7 +58,7 @@ Currently focused on becoming a backend engineer with strong system design and c
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 My Toolbox
 
 ### Backend
 
@@ -107,12 +103,12 @@ Currently focused on becoming a backend engineer with strong system design and c
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,idea,vscode" />
+<img src="https://skillicons.dev/icons?i=git,docker,postman,idea,vscode" />
 </p>
 
 ---
 
-## 🌟 Featured Project Direction
+## 🚧 Currently Building
 
 ### ESP32 + Spring Boot Smart Room Monitoring
 
@@ -148,7 +144,7 @@ Dashboard & Analytics
 
 ---
 
-## 💻 Backend Projects
+## ⚙️ Things I've Built
 
 ### 🛒 E-Commerce Backend
 
@@ -202,7 +198,7 @@ Dashboard & Analytics
 
 ---
 
-## 📚 Currently Learning
+## 📖 Always In Progress
 
 - Docker
 - Kubernetes
@@ -215,19 +211,19 @@ Dashboard & Analytics
 
 ---
 
-## 📈 GitHub Analytics
+## 📈 Numbers Don't Lie
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gondkar-saish&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gondkar-saish&show_icons=true&theme=github_dark_dimmed&hide_border=true&cache_seconds=1800"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gondkar-saish&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gondkar-saish&layout=compact&theme=github_dark_dimmed&hide_border=true&cache_seconds=1800"/>
 
 </div>
 
 ---
 
-## 🎯 Goals
+## 🎮 Next Side Quest
 
 - Build production-ready backend systems
 - Master the Spring Boot ecosystem
@@ -238,12 +234,12 @@ Dashboard & Analytics
 
 ---
 
-## 🌐 Connect With Me
+## 🤝 Let's Connect
 
 <div align="center">
 
 <a href="https://personal-website-mu-eight-91.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-2F81F7?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-1F6FEB?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/saish-gondkar/">
@@ -254,18 +250,16 @@ Dashboard & Analytics
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/gondkar-saish">
-<img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
 </div>
 
 ---
 
 <div align="center">
 
-### Building systems that connect software, data, and hardware.
+### Thanks for stopping by!
 
-**Explore my work through my portfolio above.**
+If you've made it this far, we're basically teammates already.
+
+**Now go click the portfolio button. I spent way too many hours making it.**
 
 </div>
