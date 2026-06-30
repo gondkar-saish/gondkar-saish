@@ -5,7 +5,7 @@
 ### Java Backend Developer • Computer Engineering Student • IoT & ESP32 Explorer
 
 <a href="https://personal-website-mu-eight-91.vercel.app/">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2200&pause=1000&color=36454F&center=true&vCenter=true&width=850&lines=Building+Software+%2B+Hardware;Turning+Ideas+Into+Systems;Spring+Boot+%7C+ESP32+%7C+IoT;Backend+Logic+Meets+Real+World+Devices" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2200&pause=1000&color=2B2B2B&center=true&vCenter=true&width=850&lines=Building+Software+%2B+Hardware;Turning+Ideas+Into+Systems;Spring+Boot+%7C+ESP32+%7C+IoT;Backend+Logic+Meets+Real+World+Devices" />
 </a>
 
 <br>
