@@ -4,41 +4,42 @@
 
 ### Java Backend Developer • Computer Engineering Student • IoT & ESP32 Explorer
 
-<a href="https://personal-website-mu-eight-91.vercel.app">
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2200&pause=1200&color=00F5FF&center=true&vCenter=true&width=900&lines=%3E+booting+saish_gondkar.exe...;%E2%9C%94+Backend+Engineer;%E2%9C%94+Spring+Boot+Developer;%E2%9C%94+ESP32+Explorer;%E2%9C%94+Building+Software+%2B+Hardware+Systems;%3E+Launch+Interactive+Portfolio..." />
-
+<a href="https://personal-website-mu-eight-91.vercel.app/">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2200&pause=1000&color=2F81F7&center=true&vCenter=true&width=800&lines=Backend+Developer;Spring+Boot+%7C+Java+%7C+MySQL;ESP32+%2B+Backend+Integration;Building+Software+%2B+Hardware+Systems" />
 </a>
 
 <br>
 
-<a href="https://personal-website-mu-eight-91.vercel.app">
-<img src="https://img.shields.io/badge/🚀%20Launch%20My%20Interactive%20Portfolio-00F5FF?style=for-the-badge"/>
+<a href="https://personal-website-mu-eight-91.vercel.app/">
+<img src="https://img.shields.io/badge/Visit%20My%20Portfolio-24292F?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="https://github.com/gondkar-saish">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/saish-gondkar/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-# 🌐 Portfolio
+## 🌐 Portfolio
 
-> ### **My portfolio isn't just another website.**
->
-> It features a futuristic UI, immersive animations, and showcases my backend, IoT, and software engineering projects beyond what GitHub can display.
->
-> ## 🚀 **Click the banner above to explore it!**
+> **My portfolio showcases my projects, skills, and learning journey in a more interactive way than a normal GitHub README.**  
+> It includes my backend projects, IoT direction, and personal website design.
+
+<p align="center">
+<a href="https://YOUR-WEBSITE-LINK.vercel.app">
+<img src="https://img.shields.io/badge/Open%20Portfolio-2F81F7?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+</p>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
 I'm a Computer Engineering student passionate about building scalable backend systems while exploring embedded hardware and IoT.
 
@@ -48,7 +49,7 @@ Currently focused on becoming a backend engineer with strong system design and c
 
 ---
 
-# 🚀 Current Focus
+## 🚀 Current Focus
 
 - Java Backend Development
 - Spring Boot REST APIs
@@ -61,28 +62,23 @@ Currently focused on becoming a backend engineer with strong system design and c
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-## Backend
+### Backend
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=java,spring,maven,hibernate"/>
-
+<img src="https://skillicons.dev/icons?i=java,spring,maven" />
 </p>
 
 - REST APIs
 - Spring Security
 - JWT Authentication
+- Hibernate / JPA
 
----
-
-## Databases
+### Databases
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres"/>
-
+<img src="https://skillicons.dev/icons?i=mysql,postgres" />
 </p>
 
 - SQL
@@ -90,24 +86,16 @@ Currently focused on becoming a backend engineer with strong system design and c
 - Entity Relationships
 - Query Optimization
 
----
-
-## Frontend
+### Frontend
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=react,html,css,javascript"/>
-
+<img src="https://skillicons.dev/icons?i=react,html,css,javascript" />
 </p>
 
----
-
-## Hardware & IoT
+### Hardware & IoT
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=arduino"/>
-
+<img src="https://skillicons.dev/icons?i=arduino" />
 </p>
 
 - ESP32
@@ -116,25 +104,19 @@ Currently focused on becoming a backend engineer with strong system design and c
 - GPIO Programming
 - Serial Communication
 
----
-
-## Tools
+### Tools
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,idea,vscode"/>
-
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,idea,vscode" />
 </p>
 
 ---
 
-# 🌟 Featured Project Direction
+## 🌟 Featured Project Direction
 
-## ESP32 + Spring Boot Smart Room Monitoring
+### ESP32 + Spring Boot Smart Room Monitoring
 
 Combining embedded systems with scalable backend architecture.
-
-### Architecture
 
 ```text
 ESP32 Device
@@ -166,9 +148,9 @@ Dashboard & Analytics
 
 ---
 
-# 💻 Backend Projects
+## 💻 Backend Projects
 
-## 🛒 E-Commerce Backend
+### 🛒 E-Commerce Backend
 
 - User Management
 - Product Management
@@ -179,29 +161,25 @@ Dashboard & Analytics
 - DTO Architecture
 - Service Layer Pattern
 
-**Tech**
-
-`Java` • `Spring Boot` • `Hibernate` • `JPA` • `MySQL` • `Swagger`
+**Tech:** `Java` • `Spring Boot` • `Hibernate` • `JPA` • `MySQL` • `Swagger`
 
 ---
 
-## 🔐 Role-Based Authentication System
+### 🔐 Role-Based Authentication System
 
 - Registration
 - Login
-- BCrypt
+- BCrypt Password Encryption
 - JWT Authentication
 - Spring Security
 - Protected APIs
 - Role-Based Authorization
 
-**Tech**
-
-`Java` • `Spring Boot` • `Spring Security` • `JWT`
+**Tech:** `Java` • `Spring Boot` • `Spring Security` • `JWT` • `MySQL`
 
 ---
 
-## 🏨 Hotel Booking System
+### 🏨 Hotel Booking System
 
 - Room Management
 - Booking System
@@ -209,18 +187,22 @@ Dashboard & Analytics
 - Booking History
 - Swagger Documentation
 
+**Tech:** `Java` • `Spring Boot` • `JPA` • `MySQL` • `Swagger`
+
 ---
 
-## 🎟️ Ticket Booking System
+### 🎟️ Ticket Booking System
 
 - Event Management
 - Seat Tracking
 - Ticket Booking
 - Booking History
 
+**Tech:** `Java` • `Spring Boot` • `JPA` • `MySQL` • `REST APIs`
+
 ---
 
-# 📚 Currently Learning
+## 📚 Currently Learning
 
 - Docker
 - Kubernetes
@@ -228,27 +210,27 @@ Dashboard & Analytics
 - System Design
 - API Security
 - Cloud Deployment
-- Testing (Jest)
+- Testing
 - State Management
 
 ---
 
-# 📈 GitHub Analytics
+## 📈 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gondkar-saish&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gondkar-saish&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gondkar-saish&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gondkar-saish&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🎯 Goals
+## 🎯 Goals
 
 - Build production-ready backend systems
-- Master Spring Boot ecosystem
+- Master the Spring Boot ecosystem
 - Learn scalable system architecture
 - Create IoT solutions using ESP32
 - Learn Docker & Kubernetes
@@ -256,38 +238,24 @@ Dashboard & Analytics
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <div align="center">
 
-<a href="https://YOUR-WEBSITE-LINK.vercel.app">
-
-<img src="https://img.shields.io/badge/🌐%20Interactive%20Portfolio-Visit%20Now-00F5FF?style=for-the-badge"/>
-
+<a href="https://personal-website-mu-eight-91.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-2F81F7?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-
-<br><br>
 
 <a href="https://www.linkedin.com/in/saish-gondkar/">
-
-<img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
-
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:saish.gondkar06@gmail.com">
-
-<img src="https://skillicons.dev/icons?i=gmail" width="48"/>
-
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;
-
 <a href="https://github.com/gondkar-saish">
-
-<img src="https://skillicons.dev/icons?i=github" width="48"/>
-
+<img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -296,8 +264,8 @@ Dashboard & Analytics
 
 <div align="center">
 
-### ⚡ Building systems that connect software, data, and hardware.
+### Building systems that connect software, data, and hardware.
 
-⭐ **If you enjoyed exploring my work, don't forget to check out my portfolio!**
+**Explore my work through my portfolio above.**
 
 </div>
